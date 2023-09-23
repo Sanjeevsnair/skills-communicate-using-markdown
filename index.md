@@ -14,3 +14,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Join GTECH Mulearn
+- [X] Complete Basic Enablement Taks
+- [ ] Get to Level 4 in Discord Server
+- [ ] Create Learning Circles
+- [ ] Start Learning
